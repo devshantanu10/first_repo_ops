@@ -1,4 +1,4 @@
 hello 
 git init 
 i am learning git 
-this is the bad commit 
+this is the bad commit
