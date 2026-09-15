@@ -1,5 +1,3 @@
 hello 
 git init 
 i am learning git 
-
-I am shantanu kumar poudel
